@@ -1,22 +1,23 @@
-##Calculator Web App
+# Calculator Web App
 
-A simple and responsive calculator built using HTML, CSS, and JavaScript.
+  A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
-🖥️ Live Demo
+# 🔗 Live Preview
 
-🔗 Live Preview
 
-📌 Features
+# 📌 Features
 
-Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
+  Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
 
-Responsive design for mobile and desktop
+  Responsive design for mobile and desktop
 
-User-friendly interface
+  User-friendly interface
 
-Real-time calculations
+  Real-time calculations
 
-🚀 Technologies Used
+
+
+# 🚀 Technologies Used
 
 HTML - Structure of the calculator
 
@@ -24,36 +25,35 @@ CSS - Styling and responsiveness
 
 JavaScript - Logic and functionality
 
-📸 Screenshots
 
 
 
-🛠️ Installation
+# 🛠️ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/your-username/your-repository.git
 
 Navigate to the project folder:
 
-cd your-repository
+    cd your-repository
 
-Open index.html in your browser.
+    Open index.html in your browser.
 
-📂 Project Structure
+# 📂 Project Structure
 
-📦 Calculator
-├── 📄 index.html  # Main HTML file
-├── 📂 css
-│   ├── styles.css  # Styling file
-├── 📂 js
-│   ├── script.js  # JavaScript logic
-└── 📄 README.md  # Project documentation
+📦 Calculator<br>
+├── 📄 index.html  # Main HTML file<br>
+├── 📂 css<br>
+│     </t>  ├── styles.css  # Styling file<br>
+├── 📂 js<br>
+│       ├── script.js  # JavaScript logic<br>
+└── 📄 README.md  # Project documentation<br>
 
-🤝 Contributing
+# 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+  Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-📜 License
+# 📜 License
 
-This project is licensed under the MIT License.
+  This project is licensed under the MIT License.
