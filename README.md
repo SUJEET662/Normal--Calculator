@@ -45,7 +45,7 @@ Navigate to the project folder:
 📦 Calculator<br>
 ├── 📄 index.html  # Main HTML file<br>
 ├── 📂 css<br>
-│     </t>  ├── styles.css  # Styling file<br>
+│  <br/>  ├── styles.css  # Styling file<br>
 ├── 📂 js<br>
 │       ├── script.js  # JavaScript logic<br>
 └── 📄 README.md  # Project documentation<br>
